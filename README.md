@@ -8,4 +8,3 @@ The *Supermarket Database Management System* is a robust solution developed usin
 
 1. *Unzip Files:* Extract the provided Files.
 2. *Run Scripts:* Execute the PL/SQL scripts in Oracle SQL Developer to set up the database.
-Uploading Recording 2024-11-24 205759.mp4…
